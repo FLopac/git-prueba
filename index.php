@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Hola mundo <?php echo 'LOOOOOOOOOOOL'?></h1>
+    <h1>Hola mundo <?php echo 'LOOOOOOOOOOOL PRUEBA NUMERO 2'?></h1>
 </body>
 </html>
